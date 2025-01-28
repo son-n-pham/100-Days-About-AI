@@ -2,7 +2,7 @@
 
 To write code, we need a text editor. A simple one like Notepad in Windows would work. However, there are several text editors dedicated to writing code, called IDEs (Integrated Development Environments). The advantage of using an IDE is that it provides many features that help in writing code, such as syntax highlighting, code completion, and debugging.
 
-I have used several IDEs including PyCharm, Jupyter Notebook, Jupyter Lab, Microsoft Visual Studio, Visual Studio Code, and Spyder etc. However, I found that Visual Studio Code (VS Code) is the best for its lightweight nature and rich features, including many useful extensions.
+There are several IDEs, including PyCharm, Jupyter Notebook, Jupyter Lab, Microsoft Visual Studio, Visual Studio Code, and Spyder etc; however, I found that Visual Studio Code (VS Code) is the best for its lightweight nature and rich features, including many useful extensions.
 
 VS Code is provided by Microsoft and is free and open-source. It is available for Windows, macOS, and Linux. You can download it from [here](https://code.visualstudio.com/).
 
