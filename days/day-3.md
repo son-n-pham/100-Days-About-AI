@@ -1,6 +1,7 @@
 ## Day 3: "We Have No Moat, and Neither Does OpenAI"
 
 The leaked Google memo in May 2023 revealed a striking truth: neither Google nor OpenAI has an unbeatable advantage in LLMs. Open-source models are rapidly catching up!
+![Deepseek-OpenAI](https://github.com/user-attachments/assets/4dee42cd-76d2-47af-b748-0f97ca0406b3)
 
 I've noticed that OpenAI's models are becoming less competitive, especially when considering cost-effectiveness compared to alternatives. Meanwhile, their CEO seems focused on creating hype - perhaps to attract more investment for their challenging business model 😅.
 
